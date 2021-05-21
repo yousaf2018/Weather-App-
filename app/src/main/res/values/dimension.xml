@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Temprature">100sp</dimen>
+    <dimen name="denseClouds">20sp</dimen>
+    <dimen name="daysDimen">20sp</dimen>
+    <dimen name="Temprature1">40sp</dimen>
+    <dimen name="O">15sp</dimen>
+
+
+</resources>

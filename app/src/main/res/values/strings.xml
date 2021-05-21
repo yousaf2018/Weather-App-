@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" >Today Weather</string>
+    <string name="todo">TODO</string>
+    <string name="cloud">Cloud image</string>
+    <string name="location">Location icon</string>
+    <string name="chowk" >Chowk Azam</string>
+    <string name="updating" >Updating</string>
+    <string name="temprature" >21</string>
+    <string name="temp">Temperature in C</string>
+    <string name="O" >O</string>
+    <string name="DenseClouds">Mostly Clouds</string>
+    <string name="date">Friday, 25 May</string>
+    <string name="windSpeed">13 km/h</string>
+    <string name="wind">Wind</string>
+    <string name="humd">Humaditiy</string>
+    <string name="humdpercent">40%</string>
+    <string name="rain">Chances of Rain</string>
+    <string name="rainChances">70%</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+    <string name="monday">Mon</string>
+    <string name="temprature2" >22</string>
+    <string name="temprature3" >25</string>
+    <string name="temprature4" >27</string>
+
+
+</resources>
